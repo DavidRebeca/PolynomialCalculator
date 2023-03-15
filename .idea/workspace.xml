@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de80e961-e3cd-4233-9057-19057dde70b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PT2021-2022_Documentation_ASSIGMENT1.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/CalcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/CalcController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controller/CalcController$CalculeazaListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller/CalcController$CalculeazaListener.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25PU2jBt4f4mLUsgPIhaBaqv8C2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="4" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Assigment_4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rebeca\IdeaProjects\ASSIGMENT_1\src\main\java\CALCULATOR_VIEW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CalculatorPolinoame">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="ASSIGMENT_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorPolinoame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorPolinoame" />
+      <module name="Calculator_Polinoame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorPolinoame" />
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de80e961-e3cd-4233-9057-19057dde70b5" name="Changes" comment="" />
+      <created>1645428015836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645428015836</updated>
+      <workItem from="1645428017145" duration="2122000" />
+      <workItem from="1645469496726" duration="3192000" />
+      <workItem from="1645629658590" duration="3625000" />
+      <workItem from="1645704513880" duration="5611000" />
+      <workItem from="1645724171703" duration="4703000" />
+      <workItem from="1645856299671" duration="3891000" />
+      <workItem from="1645899375458" duration="6911000" />
+      <workItem from="1645951011751" duration="8391000" />
+      <workItem from="1645960865487" duration="187000" />
+      <workItem from="1645963355006" duration="451000" />
+      <workItem from="1645964173132" duration="3232000" />
+      <workItem from="1645969630293" duration="1240000" />
+      <workItem from="1645988815234" duration="406000" />
+      <workItem from="1646028285361" duration="6141000" />
+      <workItem from="1646034694699" duration="2000" />
+      <workItem from="1646076479564" duration="255000" />
+      <workItem from="1646136465983" duration="263000" />
+      <workItem from="1646137121518" duration="72000" />
+      <workItem from="1646137724177" duration="214000" />
+      <workItem from="1646138405882" duration="629000" />
+      <workItem from="1646154045664" duration="1952000" />
+      <workItem from="1646234817139" duration="3591000" />
+      <workItem from="1646288047338" duration="5026000" />
+      <workItem from="1646312343899" duration="304000" />
+      <workItem from="1646335794585" duration="3127000" />
+      <workItem from="1646378615336" duration="13973000" />
+      <workItem from="1646399711333" duration="215000" />
+      <workItem from="1646399986053" duration="1258000" />
+      <workItem from="1646401549896" duration="170000" />
+      <workItem from="1646401755271" duration="2191000" />
+      <workItem from="1646404219228" duration="384000" />
+      <workItem from="1646415980231" duration="10048000" />
+      <workItem from="1646467817126" duration="2864000" />
+      <workItem from="1646481166855" duration="3932000" />
+      <workItem from="1646510037463" duration="2863000" />
+      <workItem from="1646551255862" duration="3479000" />
+      <workItem from="1646594059345" duration="855000" />
+      <workItem from="1646633495871" duration="2591000" />
+      <workItem from="1646636901037" duration="301000" />
+      <workItem from="1647239924706" duration="53000" />
+      <workItem from="1647690593363" duration="404000" />
+      <workItem from="1677072022233" duration="894000" />
+      <workItem from="1677097149612" duration="782000" />
+      <workItem from="1677245158822" duration="67000" />
+      <workItem from="1677266022349" duration="80000" />
+      <workItem from="1677266122545" duration="22000" />
+      <workItem from="1678567567519" duration="68000" />
+      <workItem from="1678871655320" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ASSIGMENT_1$Calculator.ic" NAME="Calculator Coverage Results" MODIFIED="1645953105871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
